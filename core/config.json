@@ -1,0 +1,13 @@
+{
+    "port":3000,
+    "domain":"localhost",
+    "dataBase":{
+        "name":"marketeft",
+        "password":"IBelieveInDemogorgon"
+    },
+    "auth":{
+        "jwtToken":{
+            "secret": "f10c70826jfh56sdc661af6d7e"
+        }
+    }
+}
